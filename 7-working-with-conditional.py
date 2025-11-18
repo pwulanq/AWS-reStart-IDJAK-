@@ -13,4 +13,8 @@ elif(False):
 else:
     print("Because all of the conditionis above are false, I am executed")
 
+#Logical Comparison: always return to true or false 
 print(8<5)
+print(8>5)
+print(10==10)
+
